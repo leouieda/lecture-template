@@ -1,4 +1,4 @@
-<!-- .slide: class="slide-title" data-background-image="img/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
+<!-- .slide: class="slide-title" data-background-image="assets/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
 
 <div class="container">
 <div class="col-large" style="text-align: left;">
@@ -8,7 +8,7 @@ Course title
 </div>
 <div class="col-small" style="text-align: right;">
 
-[<img src="img/university-of-liverpool-white.png" style="width: 35%">](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/)
+[<img src="assets/university-of-liverpool-white.png" style="width: 35%">](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/)
 
 </div>
 </div>
@@ -46,7 +46,7 @@ Course title
 <div class="container">
 <div class="col-large">
 
-![](img/title-slide-background.jpg)
+![](assets/title-slide-background.jpg)
 
 </div>
 <div class="col-small">
@@ -79,7 +79,7 @@ Another citation or funny note.
 
 ---
 
-<!-- .slide: data-background-image="img/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
+<!-- .slide: data-background-image="assets/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
 
 <div class="r-stretch quote">
 
