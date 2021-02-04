@@ -31,14 +31,12 @@ Course title
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="rgb(25, 34, 55)" -->
+# Learning objectives
 
-<div class="centered">
-<div>
+<div class="lefted">
 
-# Background
+1. meh
 
-</div>
 </div>
 
 ---
@@ -58,7 +56,7 @@ A image with:
 * A bullet point
 * description of it
 
-`$ J(\theta_0,\theta_1) = \sum_{i=0} \frac{x_i}{y} \sin x_i $`
+`$ J(\theta_0,\theta_1) = \sum_{i=0} \dfrac{x_i}{y} \sin x_i $`
 
 </div>
 </div>
@@ -118,7 +116,7 @@ Jupyter notebook:
 
 ## Data sources
 
-<div class="left-align">
+<div class="lefted">
 
 * List of data sources
 
@@ -128,7 +126,7 @@ Jupyter notebook:
 
 ## References
 
-<div class="left-align">
+<div class="lefted">
 
 * List of references
 
