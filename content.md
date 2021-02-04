@@ -1,31 +1,33 @@
 <!-- .slide: class="slide-title" data-background-image="img/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
 
-<div class="centered">
-<div>
-
-# A slightly long<br>talk title
-
-## [Leonardo Uieda](https://www.leouieda.com)
-
-[<i class="fab fa-twitter fa-fw"></i> @leouieda](https://twitter.com/leouieda)
-
-*Location | Date*
-
 <div class="container">
-<div class="col-left">
+<div class="col-large" style="text-align: left;">
 
-[<img src="img/compgeolab.svg" style="width: 40%">](https://www.compgeolab.org)
-
-</div>
-<div class="col-right">
-
-[<img src="img/university-of-liverpool-white.png" style="width: 40%">](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/)
+Course title
 
 </div>
-</div>
+<div class="col-small" style="text-align: right;">
+
+[<img src="img/university-of-liverpool-white.png" style="width: 35%">](https://www.liverpool.ac.uk/earth-ocean-and-ecological-sciences/)
 
 </div>
 </div>
+
+
+<div class="r-stretch">
+
+# A very nice lecture<br>about an interesting topic
+
+</div>
+
+## Instructor: [**Leonardo Uieda**](https://www.leouieda.com)
+
+<i class="fas fa-envelope fa-fw"></i> [Leonardo.Uieda@liverpool.ac.uk](mailto:Leonardo.Uieda@liverpool.ac.uk)
+<span style="margin: 0 20px">|</span>
+<i class="fab fa-twitter fa-fw"></i> [@leouieda](https://twitter.com/leouieda)
+<span style="margin: 0 20px">|</span>
+[<i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i> CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
 
 ---
 
@@ -56,6 +58,8 @@ A image with:
 * A bullet point
 * description of it
 
+`$ J(\theta_0,\theta_1) = \sum_{i=0} \frac{x_i}{y} \sin x_i $`
+
 </div>
 </div>
 
@@ -77,7 +81,7 @@ Another citation or funny note.
 
 ---
 
-<!-- .slide: class="slide-title" data-background-image="img/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
+<!-- .slide: data-background-image="img/title-slide-background.jpg" data-background-repeat="no-repeat" data-background-opacity="0.25" data-background-color="#000000" data-background-position="center" -->
 
 <div class="r-stretch quote">
 
@@ -93,41 +97,44 @@ Another citation or funny note.
 
 ---
 
-<!-- CONTACT -->
+<!-- END MATTER -->
 <!-- ====================================================================== -->
-
-<!-- .slide: class="slide-contact" data-background-color="rgb(25, 34, 55)" -->
 
 <div class="centered">
 <div>
 
-# Contact
+## Source code
 
-<ul class="fa-ul" style="">
-<li><i class="fa-li fa fa-envelope"></i>
+Python code for making the figures shown in this lecture are available in a
+Jupyter notebook:
 
-[Leonardo.Uieda@liverpool.ac.uk](mailto:Leonardo.Uieda@liverpool.ac.uk)
-
-</li>
-<li><i class="fa-li fab fa-twitter"></i>
-
-[@leouieda](https://twitter.com/leouieda)
-
-</li>
-<li><i class="fa-li fa fa-desktop"></i>
-
-[www.leouieda.com](https://www.leouieda.com)
-
-</li>
-</ul>
+* View/download
+* Run the code on Binder
 
 </div>
 </div>
 
 ---
 
-<!-- LICENSE -->
-<!-- ====================================================================== -->
+## Data sources
+
+<div class="left-align">
+
+* List of data sources
+
+</div>
+
+---
+
+## References
+
+<div class="left-align">
+
+* List of references
+
+</div>
+
+---
 
 <!-- .slide: class="slide-license" -->
 
@@ -138,8 +145,10 @@ Another citation or funny note.
 <i class="fab fa-creative-commons"></i><i class="fab fa-creative-commons-by"></i>
 </p>
 
-This presentation is licensed under a
-
+Unless otherwise noted,
+the contents of this lecture are
+licensed under the
+<br>
 [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 </div>
